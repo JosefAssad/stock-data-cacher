@@ -56,6 +56,6 @@ The tests require that the data/ folder contains sample data. You will have to h
 
 ## License
 
-The file `StockCollection.py` is licensed under the [GPLv3](http://www.gnu.org/licenses/gpl-3.0.html) license. Everything else is public domain; for countries without public domain legal status, all files other than `StockCollection.py` may be considered to have rights waived.
+This utility is licensed under the [GPLv3](http://www.gnu.org/licenses/gpl-3.0.html) license.
 
 I can be contacted at josef@josefassad.com
