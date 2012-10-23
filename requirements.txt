@@ -1,0 +1,15 @@
+Pygments==1.5
+SQLAlchemy==0.7.6
+cov-core==1.6
+coverage==3.5.1
+distribute==0.6.19
+fancycompleter==0.4
+nose==1.1.2
+nose-cov==1.4
+pdbpp==0.7.2
+psycopg2==2.4.5
+pyrepl==0.8.2
+termcolor==1.0.1
+wmctrl==0.1
+wsgiref==0.1.2
+yanc==0.2.3
